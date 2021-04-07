@@ -1,10 +1,12 @@
-<h1>Olá, eu sou Leonardo Silva de Souza</h1>
+# Olá, eu sou Leonardo Silva de Souza
+
+![GitHub followers](https://img.shields.io/github/followers/Leo18ss?label=Follow&style=social)
 
 <p align="left"><b>Sobre mim</b> <br>
-- 🔭 Estou cursando Engenharia de Computação - Inatel.<br/>
-- 
-<p align="left"><b>Linguagens</b> <br>
-
+Estou cursando Engenharia de Computação no Inatel, me dedico na área de desenvolvimento mobile e suas tecnologias com o framework
+  Flutter e também estou estudando a linguagem Python.
+  
+## Linguagens e Ferramentas :computer:
 <p>
 <img height="30" src="https://www.flaticon.com/svg/static/icons/svg/1822/1822899.svg"/> <strong> Python </strong> 
 <img height="30" src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg"/> <strong> Java </strong> 
