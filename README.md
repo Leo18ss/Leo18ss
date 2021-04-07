@@ -1,8 +1,8 @@
-# Olá, eu sou Leonardo Silva de Souza
+# Olá :wave:, eu sou Leonardo Silva de Souza
 
 ![GitHub followers](https://img.shields.io/github/followers/Leo18ss?label=Follow&style=social)
 
-## Sobre mim
+## Sobre mim :man:
 Estou cursando Engenharia de Computação no Inatel, me dedico na área de desenvolvimento mobile e suas tecnologias com o framework Flutter.
   
 ## Linguagens e Ferramentas :computer:
