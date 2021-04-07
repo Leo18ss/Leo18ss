@@ -2,9 +2,8 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/Leo18ss?label=Follow&style=social)
 
-<p align="left"><b>Sobre mim</b> <br>
-Estou cursando Engenharia de Computação no Inatel, me dedico na área de desenvolvimento mobile e suas tecnologias com o framework
-  Flutter e também estou estudando a linguagem Python.
+## Sobre mim
+Estou cursando Engenharia de Computação no Inatel, me dedico na área de desenvolvimento mobile e suas tecnologias com o framework Flutter.
   
 ## Linguagens e Ferramentas :computer:
 <p>
